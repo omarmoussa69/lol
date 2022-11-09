@@ -66,4 +66,4 @@ client.on("messageCreate", message => {
 
   }
 })
-client.login("NzA4ODE1NDEwMzkyNDY1NDI4.G7nWkO.lXQ5AIbbyFSAwtiH0wH7wwWBUantS7X75nQz1w")
+client.login(secrets.TOKEN)
